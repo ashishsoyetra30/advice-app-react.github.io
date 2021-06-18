@@ -1,3 +1,6 @@
+# You can access it from here too
+https://optimistic-meitner-b9405d.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
